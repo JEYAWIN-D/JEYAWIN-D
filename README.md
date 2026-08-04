@@ -1,34 +1,44 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=JEYAWIN%20D&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Business%20Development%20Manager%20%7C%20Tech%20Architect%20%7C%20Creative%20Designer&descAlignY=62&descSize=16" alt="Hero Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=JEYAWIN%20D&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Business%20Growth%20Manager%20%7C%20IoT%20Ideologist%20%7C%20ERP%20Analyst&descAlignY=62&descSize=16" alt="Hero Banner" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Business+Development+Manager;Enterprise+Solutions+and+ERP+Strategy;Graphic+%26+Animation+Design;UI%2FUX+%26+Motion+Graphics;Bridging+Engineering,+Business,+and+Design;Business+growth+manager,+IOT+idealogist,+ERP+analyst" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=Business+Development+%26+Growth+Manager;IoT+Ideologist+%26+ERP+Analyst;Structuring+High-Conversion+SEO+Packages;Architecting+Digital+Marketing+Strategies;Bridging+Engineering,+Business,+and+Design;Orchestrating+Large-Scale+Tech+Logistics" alt="Typing Header" />
 </div>
 
-### 👨‍💻 Professional & Creative Profile
+<br/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Animated Coding GIF" />
+### 💠 Executive & Technical Identity
 
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      
 ```javascript
-const professionalIdentity = {
-  title: "Business Development Manager, Tech Architect & Creative Designer",
-  
+const JeyawinProfile = {
+  title: "Business Growth Manager & Solutions Architect",
   focusAreas: [
-    "B2B Business Development & Sales Strategy",
+    "B2B Sales Strategy & Digital Expansion",
     "Digital Marketing & SEO Service Structuring",
-    "Enterprise Resource Planning (ERP) & IoT", 
-    "Graphic Design, UI/UX, & Animation"
+    "Enterprise Resource Planning (ERP)", 
+    "IoT Integrations & Tech Partnerships"
   ],
-  
   coreCompetency: "Fusing robust software architecture with compelling visual design to drive high-value digital experiences.",
-  
-  contact: {
-    email: "djeyawin@gmail.com",
-    linkedIn: "[linkedin.com/in/jeyawin-d](https://linkedin.com/in/jeyawin-d)"
-  }
+  recentInitiatives: [
+    "Driving combined ERP + IoT R&D for connected businesses",
+    "Executing digital & logistical planning for major conventions (e.g., KAC 2025)",
+    "Crafting deep cultural & retro-aesthetic design systems"
+  ],
+  status: "200 OK - Ready for strategic collaborations"
 };
-🎨 Graphic Design, Animation & UI/UXCreative Stack & Tooling:Creative InitiativeFocus AreaDesign ImpactAesthetic Visual DirectionConcept Art, Cultural AestheticsDirected the creation of highly detailed visual assets focusing on specific cultural and aesthetic themes, including retro stylings and rich traditional event concepts.UI/UX & Motion GraphicsApp Interfaces, Micro-AnimationsDesigned seamless, cross-platform user interfaces for Flutter applications, enhanced with engaging micro-animations and motion design to elevate user retention and brand identity.Digital Marketing AssetsBrand Identity, B2B MediaCrafted compelling graphic layouts and animated promotional materials to support SEO and B2B digital marketing strategies.🛠️ Domain Expertise & Engineering Stack📊 GitHub Analytics & Data Visualization📉 3D-Animated Contribution Grid (Snake)📈 Activity Line Graph🚀 Flagship Enterprise InitiativesInitiativeTech & DomainStrategic ImpactConnected ERP + IoT PlatformERP Systems, IoT HardwareScaled an R&D initiative merging IoT capabilities with standard ERP software for automated business operations. Successfully transitioned the platform to live client environments.HabitShareFlutter, Firebase, UI AnimationEngineered a social habit-tracking ecosystem featuring smooth interactive animations and robust Firebase architectures for flawless real-time data sync.B2B Construction PlatformMobile Architecture, APIsDirected the complete cross-team development of a niche construction industry application, demonstrating strong cross-platform technical and design leadership.🌱 Currently ExploringPlaintext🎨 Advanced Motion Design → Integrating After Effects animations into Flutter apps via Lottie
-📊 B2B Sales & Enterprise Strategy → Scaling tech solutions with high-end digital marketing assets
-🌐 Advanced IoT Connectivity → Secure hardware-to-software data pipelines
-📫 Let's Discuss Business, Tech, & Design!
+</td>
+<td width="40%" align="center" valign="middle">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Animated Hologram GIF" width="85%" style="border-radius: 12px; box-shadow: 0px 4px 15px rgba(0, 255, 209, 0.3);" />
+</td>
+🌌 Visualizing Impact: Data & Analytics
+🛸 3D Contribution Grid & Activity Dynamics
+The animated snake below traverses my contribution graph, representing continuous activity and algorithm efficiency.
+
+⚙️ Core Operations & Domain Expertise
+🛠️ Strategic Tech Arsenal
+📫 Initiate Connection
