@@ -1,41 +1,40 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=00A389&height=180&section=header&text=JEYAWIN%20D&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Business%20Development%20Manager%20%7C%20Enterprise%20Solutions%20Architect&descAlignY=65&descSize=16" alt="Hero Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=JEYAWIN%20D&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Business%20Development%20Manager%20-%20B2B%20Growth%20-%20ERP%20and%20IoT&descAlignY=62&descSize=16" alt="Hero Banner" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00A389&center=true&vCenter=true&width=750&lines=$+Driving+B2B+Tech+and+Digital+Growth;$+Enterprise+ERP+and+IoT+Systems+Integration;$+Structuring+SEO+and+Marketing+Packages;$+Bridging+Engineering+and+Business" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Business+Development+Manager;Driving+B2B+Tech+and+Digital+Growth;Enterprise+Solutions+and+ERP+Strategy;Structuring+SEO+and+Marketing+Packages;Bridging+Engineering+and+Business" alt="Typing Header" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/M.Sc.-Computer_Technology-00A389?style=flat-square" alt="Degree" />
-  <img src="https://img.shields.io/badge/Kongu_Engineering_College-2022-00A389?style=flat-square" alt="University" />
-  <img src="https://img.shields.io/badge/Location-Erode,_Tamil_Nadu-00A389?style=flat-square" alt="Location" />
-</div>
+### 👨‍💻 Professional Profile
 
-<br/>
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
 
-<div align="center">
-  <a href="https://linkedin.com/in/jeyawin-d"><img src="https://img.shields.io/badge/LinkedIn-Connect-00A389?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:djeyawin@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-00A389?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/JEYAWIN-D"><img src="https://img.shields.io/badge/GitHub-Follow-00A389?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</div>
+```javascript
+const professionalIdentity = {
+  // 📍 Location: Erode, Tamil Nadu, India
+  title: "Business Development Manager & Enterprise Solutions Architect",
+  
+  focusAreas: [
+    "B2B Business Development & Sales Strategy",
+    "Digital Marketing & SEO Service Structuring",
+    "Enterprise Resource Planning (ERP) Systems", 
+    "IoT Integrations & Tech Partnerships"
+  ],
+  
+  coreCompetency: "Scaling tech operations by translating business needs into high-value digital and ERP solutions.",
+  
+  recentMilestone: "Driving combined ERP and IoT R&D initiatives while architecting comprehensive digital growth packages for clients.",
+  
+  contact: {
+    email: "djeyawin@gmail.com",
+    linkedIn: "[linkedin.com/in/jeyawin-d](https://linkedin.com/in/jeyawin-d)"
+  }
+};
+🛠️ Domain Expertise & Technical StackEnterprise Architecture & StrategyApplication EngineeringInfrastructure, Data & Cloud📊 GitHub Analytics💼 Executive & Engineering Experience🚀 Flagship Initiatives & ProjectsInitiativeTech & DomainStrategic ImpactConnected ERP + IoT PlatformERP Systems, IoT HardwareScaled an R&D initiative merging IoT capabilities with standard ERP software for automated business operations. Successfully transitioned the platform to live client environments via direct school and pharmacy deployments.HabitShareFlutter, FirebaseEngineered a social habit-tracking ecosystem. Implemented robust Firebase architectures to guarantee flawless real-time data synchronization across user devices.B2B Construction PlatformMobile Architecture, APIsDirected the complete cross-team development of a niche construction industry application, demonstrating strong cross-platform technical leadership.🏆 Professional MilestonesEmojiMilestoneDetails📈Business Value CreationSuccessfully transitioned from pure engineering to driving tech-based business development and acquiring B2B opportunities.⚙️End-to-End OwnershipProven track record of owning projects from initial stakeholder requirement gathering through architectural design and final deployment.🎓 Academic BackgroundDegreeInstitutionYearM.Sc. in Computer TechnologyKongu Engineering College2022🌱 Currently ExploringPlaintext📊 B2B Sales & Enterprise Strategy → Scaling tech solutions for broader markets
+🌐 Advanced IoT Connectivity → Secure hardware-to-software data pipelines
+🧱 System Architecture → Designing highly scalable ERP ecosystems
+📫 Let's Discuss Business & Tech!
 
-<br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JEYAWIN-D&color=00A389&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
-### `> about_me.sh`
-
-Bridging the gap between engineering execution and business expansion. I specialize in architecting comprehensive digital solutions—from Flutter applications to complex ERP and IoT integrations—while structuring competitive digital marketing and B2B packages for enterprise clients.
-
-```bash
-#!/bin/bash
-USER="Jeyawin D"
-ROLE="Business Development Manager & Enterprise Solutions Architect"
-DOMAIN="B2B Sales | ERP Systems | IoT Hardware | Digital Marketing"
-CORE_STACK=("Flutter" "ReactJS" "Firebase" "Azure" "REST APIs")
-OPEN_TO=("Enterprise Tech Partnerships" "B2B Tech Leadership Roles")
-
-echo "Scaling tech operations by translating business needs into high-value digital solutions."
+  
