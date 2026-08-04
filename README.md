@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Business+Development+Manager;Enterprise+Solutions+and+ERP+Strategy;Graphic+%26+Animation+Design;UI%2FUX+%26+Motion+Graphics;Bridging+Engineering,+Business,+and+Design" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Business+Development+Manager;Enterprise+Solutions+and+ERP+Strategy;Graphic+%26+Animation+Design;UI%2FUX+%26+Motion+Graphics;Bridging+Engineering,+Business,+and+Design;Business+growth+manager, +IOT idealogist, +ERP+analyst" alt="Typing Header" />
 </div>
 
 ### 👨‍💻 Professional & Creative Profile
