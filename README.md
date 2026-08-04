@@ -1,9 +1,16 @@
-/**
- * ============================================================================
- * JEYAWIN D. | PROFESSIONAL PROFILE & PORTFOLIO
- * ============================================================================
- */
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=JEYAWIN%20D&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Business%20Development%20Manager%20-%20B2B%20Growth%20-%20ERP%20and%20IoT&descAlignY=62&descSize=16" alt="Hero Banner" width="100%" />
+</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Business+Development+Manager;Driving+B2B+Tech+and+Digital+Growth;Enterprise+Solutions+and+ERP+Strategy;Structuring+SEO+and+Marketing+Packages;Bridging+Engineering+and+Business" alt="Typing Header" />
+</div>
+
+### 👨‍💻 Professional Profile
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
+
+```javascript
 const professionalIdentity = {
   // 📍 Location: Erode, Tamil Nadu, India
   title: "Business Development Manager & Enterprise Solutions Architect",
@@ -21,62 +28,86 @@ const professionalIdentity = {
   
   contact: {
     email: "djeyawin@gmail.com",
-    linkedIn: "linkedin.com/in/jeyawin-d",
-    status: "📫 Let's Discuss Business & Tech!"
+    linkedIn: "[linkedin.com/in/jeyawin-d](https://linkedin.com/in/jeyawin-d)"
   }
 };
 
-const domainExpertise = {
-  businessAndStrategy: ["Business Development", "Marketing", "SEO Optimization", "B2B Sales Strategy"],
-  enterpriseAndIoT: ["Enterprise Architecture", "IoT Hardware Integration", "ERP Ecosystems"],
-  engineeringAndData: ["Application Engineering", "System Architecture", "Cloud Data", "APIs"]
-};
+🛠️ Domain Expertise & Technical Stack
+Business Development, Marketing & Strategy
 
-const flagshipInitiatives = [
-  {
-    initiative: "Connected ERP + IoT Platform",
-    techAndDomain: ["ERP Systems", "IoT Hardware"],
-    strategicImpact: "Scaled an R&D initiative merging IoT capabilities with standard ERP software for automated business operations. Successfully transitioned the platform to live client environments via direct school and pharmacy deployments, driving immediate B2B value."
-  },
-  {
-    initiative: "Digital Growth & SEO Operations",
-    techAndDomain: ["Digital Marketing", "B2B Services"],
-    strategicImpact: "Structured competitive digital marketing and SEO service packages tailored for enterprise clients, creating new revenue streams and enhancing digital market presence."
-  },
-  {
-    initiative: "B2B Construction Platform",
-    techAndDomain: ["Mobile Architecture", "APIs"],
-    strategicImpact: "Directed the complete cross-team development of a niche construction industry application, demonstrating strong technical leadership and business-to-business product delivery."
-  },
-  {
-    initiative: "HabitShare",
-    techAndDomain: ["Flutter", "Firebase"],
-    strategicImpact: "Engineered a social habit-tracking ecosystem. Implemented robust Firebase architectures to guarantee flawless real-time data synchronization across user devices."
-  }
-];
+Enterprise Architecture & IoT
 
-const professionalMilestones = {
-  businessValueCreation: {
-    icon: "📈",
-    details: "Successfully transitioned from pure engineering to a Business Development Manager role, driving tech-based client acquisition, structuring digital service packages, and scaling B2B operations."
-  },
-  endToEndOwnership: {
-    icon: "⚙️",
-    details: "Proven track record of owning entire project lifecycles—from initial stakeholder requirement gathering and sales pitching to architectural design and final deployment."
-  }
-};
+  
+PDF
 
-const academicBackground = {
-  degree: "M.Sc. in Computer Technology",
-  institution: "Kongu Engineering College",
-  graduationYear: 2022
-};
+  
+PDF
 
-const currentlyExploring = [
-  "📊 B2B Sales & Enterprise Strategy → Scaling tech solutions and SEO packages for broader markets",
-  "🌐 Advanced IoT Connectivity → Secure hardware-to-software data pipelines for ERPs",
-  "🧱 System Architecture → Designing highly scalable ERP ecosystems for schools and pharmacies"
-];
+Application Engineering & Data
 
-// Execute Profile Boot
-console.log("Profile loaded successfully. Ready for B2B growth and tech innovation.");
+  
+PDF
+
+  
+PDF
+
+  
+PDF
+
+  
+PDF
+
+💼 Executive & Business Development Experience
+🚀 Flagship Initiatives & Projects
+Initiative	Tech & Domain	Strategic Impact
+Connected ERP + IoT Platform
+
+  
+PDF
+
+ERP Systems, IoT Hardware  
+PDF
+
+Scaled an R&D initiative merging IoT capabilities with standard ERP software for automated business operations. Successfully transitioned the platform to live client environments via direct school and pharmacy deployments, driving immediate B2B value.  
+PDF
++ 1
+
+Digital Growth & SEO Operations	Digital Marketing, B2B Services	Structured competitive digital marketing and SEO service packages tailored for enterprise clients, creating new revenue streams and enhancing digital market presence.
+B2B Construction Platform
+
+  
+PDF
+
+Mobile Architecture, APIs  
+PDF
+
+Directed the complete cross-team development of a niche construction industry application, demonstrating strong technical leadership and business-to-business product delivery.  
+PDF
+
+HabitShare
+
+[cite: 7]
+
+Flutter, Firebase[cite: 7]
+
+Engineered a social habit-tracking ecosystem[cite: 7]. Implemented robust Firebase architectures to guarantee flawless real-time data synchronization across user devices[cite: 7].
+
+🏆 Professional Milestones
+Emoji	Milestone	Details
+📈	Business Value Creation	Successfully transitioned from pure engineering to a Business Development Manager role, driving tech-based client acquisition, structuring digital service packages, and scaling B2B operations.
+⚙️	End-to-End Ownership	Proven track record of owning entire project lifecycles—from initial stakeholder requirement gathering and sales pitching to architectural design and final deployment.
+📊 GitHub Analytics
+🎓 Academic Background
+Degree	Institution	Year
+M.Sc. in Computer Technology[cite: 7]
+
+Kongu Engineering College[cite: 7]
+
+2022[cite: 7]
+
+🌱 Currently Exploring
+Plaintext
+📊 B2B Sales & Enterprise Strategy → Scaling tech solutions and SEO packages for broader markets
+🌐 Advanced IoT Connectivity → Secure hardware-to-software data pipelines for ERPs
+🧱 System Architecture → Designing highly scalable ERP ecosystems for schools and pharmacies
+📫 Let's Discuss Business & Tech!
