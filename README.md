@@ -1,66 +1,34 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&fontColor=00FF41&text=JEYAWIN_D&fontSize=50&desc=Business_Development_Manager_|_Tech_Architect&descSize=18" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=JEYAWIN%20D&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Business%20Development%20Manager%20%7C%20Tech%20Architect%20%7C%20Creative%20Designer&descAlignY=62&descSize=16" alt="Hero Banner" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Initializing+system...;>+Business+Development+%26+Digital+Expansion;>+Architecting+ERP+%26+IoT+Solutions;>+Structuring+SEO+%26+Marketing+Packages;>+Bridging+Engineering+%26+Business" alt="Typing Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Business+Development+Manager;Enterprise+Solutions+and+ERP+Strategy;Graphic+%26+Animation+Design;UI%2FUX+%26+Motion+Graphics;Bridging+Engineering,+Business,+and+Design" alt="Typing Header" />
 </div>
 
-<br>
+### 👨‍💻 Professional & Creative Profile
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="600" alt="Coding GIF" style="border-radius: 10px;" />
-</div>
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Animated Coding GIF" />
 
-<br>
-
-### 💻 `Terminal: ~/jeyawin/profile.sh`
-
-```bash
-#!/bin/bash
-echo "Loading Executive Profile..."
-
-NAME="Jeyawin D"
-ROLE="Business Development Manager & Tech Architect"
-LOCATION="Erode, Tamil Nadu, India"
-
-# Core Competencies
-EXPERTISE=(
-  "B2B Sales & Tech Partnerships"
-  "Enterprise Resource Planning (ERP)"
-  "IoT Hardware Integrations"
-  "Digital Marketing & SEO Strategy"
-  "Flutter & Mobile Architecture"
-)
-
-function execute_mission() {
-  echo "Fusing robust software engineering with B2B strategy to scale enterprise operations and craft high-conversion digital packages."
-}
-
-execute_mission
-
-⚙️ Database: ~/operations/recent_deployments.json
-
-{
-  "flagship_initiatives": [
-    {
-      "project": "Connected ERP + IoT Platform",
-      "impact": "Merged hardware capabilities with School and Pharmacy ERP software for automated, real-time B2B operations."
-    },
-    {
-      "project": "Digital Growth & SEO Operations",
-      "impact": "Structured competitive digital marketing architectures to drive B2B revenue and market presence."
-    },
-    {
-      "project": "Kongu Annual Convention (KAC) 2025",
-      "impact": "Orchestrated digital assets, brochures, and infrastructure logistics for massive-scale corporate convention."
-    },
-    {
-      "project": "HabitShare Application",
-      "impact": "Engineered cross-platform habit tracker with flawless Firebase real-time data sync across devices."
-    }
-  ]
-}
-🛠️ System: ~/dependencies/tech_stack
-📊 Analytics: ~/dashboards/live_metrics
-🔗 Network: ~/establish_connection
+```javascript
+const professionalIdentity = {
+  title: "Business Development Manager, Tech Architect & Creative Designer",
+  
+  focusAreas: [
+    "B2B Business Development & Sales Strategy",
+    "Digital Marketing & SEO Service Structuring",
+    "Enterprise Resource Planning (ERP) & IoT", 
+    "Graphic Design, UI/UX, & Animation"
+  ],
+  
+  coreCompetency: "Fusing robust software architecture with compelling visual design to drive high-value digital experiences.",
+  
+  contact: {
+    email: "djeyawin@gmail.com",
+    linkedIn: "[linkedin.com/in/jeyawin-d](https://linkedin.com/in/jeyawin-d)"
+  }
+};
+🎨 Graphic Design, Animation & UI/UXCreative Stack & Tooling:Creative InitiativeFocus AreaDesign ImpactAesthetic Visual DirectionConcept Art, Cultural AestheticsDirected the creation of highly detailed visual assets focusing on specific cultural and aesthetic themes, including retro stylings and rich traditional event concepts.UI/UX & Motion GraphicsApp Interfaces, Micro-AnimationsDesigned seamless, cross-platform user interfaces for Flutter applications, enhanced with engaging micro-animations and motion design to elevate user retention and brand identity.Digital Marketing AssetsBrand Identity, B2B MediaCrafted compelling graphic layouts and animated promotional materials to support SEO and B2B digital marketing strategies.🛠️ Domain Expertise & Engineering Stack📊 GitHub Analytics & Data Visualization📉 3D-Animated Contribution Grid (Snake)📈 Activity Line Graph🚀 Flagship Enterprise InitiativesInitiativeTech & DomainStrategic ImpactConnected ERP + IoT PlatformERP Systems, IoT HardwareScaled an R&D initiative merging IoT capabilities with standard ERP software for automated business operations. Successfully transitioned the platform to live client environments.HabitShareFlutter, Firebase, UI AnimationEngineered a social habit-tracking ecosystem featuring smooth interactive animations and robust Firebase architectures for flawless real-time data sync.B2B Construction PlatformMobile Architecture, APIsDirected the complete cross-team development of a niche construction industry application, demonstrating strong cross-platform technical and design leadership.🌱 Currently ExploringPlaintext🎨 Advanced Motion Design → Integrating After Effects animations into Flutter apps via Lottie
+📊 B2B Sales & Enterprise Strategy → Scaling tech solutions with high-end digital marketing assets
+🌐 Advanced IoT Connectivity → Secure hardware-to-software data pipelines
+📫 Let's Discuss Business, Tech, & Design!
