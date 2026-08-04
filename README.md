@@ -1,44 +1,36 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=JEYAWIN%20D&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Business%20Growth%20Manager%20%7C%20IoT%20Ideologist%20%7C%20ERP%20Analyst&descAlignY=62&descSize=16" alt="Hero Banner" width="100%" />
+  <img src="[https://capsule-render.vercel.app/api?type=cylinder&color=00FFD1&height=180&section=header&text=JEYAWIN%20D.&fontSize=50&fontColor=0D1117&animation=twinkling&desc=Business%20Development%20Manager%20%7C%20IoT%20%26%20ERP%20Architect&descAlignY=70&descSize=16](https://capsule-render.vercel.app/api?type=cylinder&color=00FFD1&height=180&section=header&text=JEYAWIN%20D.&fontSize=50&fontColor=0D1117&animation=twinkling&desc=Business%20Development%20Manager%20%7C%20IoT%20%26%20ERP%20Architect&descAlignY=70&descSize=16)" width="100%" alt="Header" />
 </div>
+
+<br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=Business+Development+%26+Growth+Manager;IoT+Ideologist+%26+ERP+Analyst;Structuring+High-Conversion+SEO+Packages;Architecting+Digital+Marketing+Strategies;Bridging+Engineering,+Business,+and+Design;Orchestrating+Large-Scale+Tech+Logistics" alt="Typing Header" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=Initializing+Executive+Profile](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=Initializing+Executive+Profile)...;>_Business+Growth+%26+Digital+Expansion;>_Architecting+ERP+%26+IoT+Ecosystems;>_Structuring+SEO+%26+Marketing+Operations;>_Bridging+Engineering+with+Enterprise+Strategy" alt="Typing Terminal" />
 </div>
 
-<br/>
+---
 
-### 💠 Executive & Technical Identity
+### 💻 `~/system/executive_profile.json`
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      
-```javascript
-const JeyawinProfile = {
-  title: "Business Growth Manager & Solutions Architect",
-  focusAreas: [
-    "B2B Sales Strategy & Digital Expansion",
-    "Digital Marketing & SEO Service Structuring",
-    "Enterprise Resource Planning (ERP)", 
-    "IoT Integrations & Tech Partnerships"
+<a href="[https://github.com/JEYAWIN-D](https://github.com/JEYAWIN-D)">
+  <img align="right" src="[https://i.pinimg.com/originals/a4/89/3e/a4893e3bdf8a1f6a1e360f08cb721df2.gif](https://i.pinimg.com/originals/a4/89/3e/a4893e3bdf8a1f6a1e360f08cb721df2.gif)" width="320" alt="Data Analytics Hologram" style="border-radius: 10px; margin-left: 15px;" />
+</a>
+
+```json
+{
+  "user": "Jeyawin D",
+  "location": "Erode, Tamil Nadu, India",
+  "designation": "Business Development Manager & Tech Architect",
+  "core_competencies": {
+    "enterprise": ["ERP Deployments", "B2B Sales", "Client Acquisition"],
+    "technology": ["IoT Integrations", "Flutter", "System Architecture"],
+    "marketing": ["SEO Structuring", "Digital Marketing Packages"]
+  },
+  "recent_execution": [
+    "Architecting connected ERP + IoT R&D for B2B operations",
+    "Orchestrating technical logistics for KAC 2025 convention",
+    "Structuring high-conversion SEO service pipelines"
   ],
-  coreCompetency: "Fusing robust software architecture with compelling visual design to drive high-value digital experiences.",
-  recentInitiatives: [
-    "Driving combined ERP + IoT R&D for connected businesses",
-    "Executing digital & logistical planning for major conventions (e.g., KAC 2025)",
-    "Crafting deep cultural & retro-aesthetic design systems"
-  ],
-  status: "200 OK - Ready for strategic collaborations"
-};
-</td>
-<td width="40%" align="center" valign="middle">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Animated Hologram GIF" width="85%" style="border-radius: 12px; box-shadow: 0px 4px 15px rgba(0, 255, 209, 0.3);" />
-</td>
-🌌 Visualizing Impact: Data & Analytics
-🛸 3D Contribution Grid & Activity Dynamics
-The animated snake below traverses my contribution graph, representing continuous activity and algorithm efficiency.
-
-⚙️ Core Operations & Domain Expertise
-🛠️ Strategic Tech Arsenal
-📫 Initiate Connection
+  "status": "200 OK - Ready for high-level enterprise collaborations."
+}
+📊 ~/dashboards/analytics_and_metrics⚙️ ~/operations/tech_stack.sh🚀 ~/initiatives/deployment_logsTarget EnvironmentExecuted OperationStrategic ImpactEnterprise (B2B)Deploy ERP + IoT EcosystemMerged hardware capabilities with School/Pharmacy ERP software for automated, real-time business operations.Digital MarketingInitialize SEO PackagesStructured competitive digital marketing architectures to drive B2B revenue and market presence.Consumer AppLaunch HabitShare AppEngineered cross-platform habit tracker with flawless Firebase real-time data sync across devices.Logistics/EventsExecute KAC 2025 PlanningOrchestrated digital assets, brochures, and infrastructure planning for massive-scale corporate convention.🐍 ~/algorithms/contribution_matrix🔗 ~/network/establish_connection
