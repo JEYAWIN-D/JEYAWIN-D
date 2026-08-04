@@ -1,40 +1,32 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=JEYAWIN%20D&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Business%20Development%20Manager%20-%20B2B%20Growth%20-%20ERP%20and%20IoT&descAlignY=62&descSize=16" alt="Hero Banner" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=%3E_%20JEYAWIN%20D&fontSize=38&desc=Business+Development+Manager+%7C+Enterprise+Solutions+Architect&descColor=8AFF57&animation=fadeIn" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Business+Development+Manager;Driving+B2B+Tech+and+Digital+Growth;Enterprise+Solutions+and+ERP+Strategy;Structuring+SEO+and+Marketing+Packages;Bridging+Engineering+and+Business" alt="Typing Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=CAFF3C&center=true&vCenter=true&width=820&lines=$+whoami+%E2%86%92+Business+Dev+Mgr+%7C+Solutions+Architect;$+skills+%E2%86%92+ERP+%7C+IoT+%7C+Digital+Marketing+%7C+Flutter;$+cat+open-to.txt+%E2%86%92+Enterprise+Tech+Partnerships" />
 </div>
 
-### 👨‍💻 Professional Profile
+## `> whoami`
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
+Bridging the gap between engineering execution and business expansion. I specialize in architecting comprehensive digital solutions—from cross-platform applications to complex ERP and IoT integrations—while structuring competitive digital marketing and B2B packages for enterprise clients.
 
-```javascript
-const professionalIdentity = {
-  // 📍 Location: Erode, Tamil Nadu, India
-  title: "Business Development Manager & Enterprise Solutions Architect",
-  
-  focusAreas: [
-    "B2B Business Development & Sales Strategy",
-    "Digital Marketing & SEO Service Structuring",
-    "Enterprise Resource Planning (ERP) Systems", 
-    "IoT Integrations & Tech Partnerships"
-  ],
-  
-  coreCompetency: "Scaling tech operations by translating business needs into high-value digital and ERP solutions.",
-  
-  recentMilestone: "Driving combined ERP and IoT R&D initiatives while architecting comprehensive digital growth packages for clients.",
-  
-  contact: {
-    email: "djeyawin@gmail.com",
-    linkedIn: "[linkedin.com/in/jeyawin-d](https://linkedin.com/in/jeyawin-d)"
-  }
-};
-🛠️ Domain Expertise & Technical StackEnterprise Architecture & StrategyApplication EngineeringInfrastructure, Data & Cloud📊 GitHub Analytics💼 Executive & Engineering Experience🚀 Flagship Initiatives & ProjectsInitiativeTech & DomainStrategic ImpactConnected ERP + IoT PlatformERP Systems, IoT HardwareScaled an R&D initiative merging IoT capabilities with standard ERP software for automated business operations. Successfully transitioned the platform to live client environments via direct school and pharmacy deployments.HabitShareFlutter, FirebaseEngineered a social habit-tracking ecosystem. Implemented robust Firebase architectures to guarantee flawless real-time data synchronization across user devices.B2B Construction PlatformMobile Architecture, APIsDirected the complete cross-team development of a niche construction industry application, demonstrating strong cross-platform technical leadership.🏆 Professional MilestonesEmojiMilestoneDetails📈Business Value CreationSuccessfully transitioned from pure engineering to driving tech-based business development and acquiring B2B opportunities.⚙️End-to-End OwnershipProven track record of owning projects from initial stakeholder requirement gathering through architectural design and final deployment.🎓 Academic BackgroundDegreeInstitutionYearM.Sc. in Computer TechnologyKongu Engineering College2022🌱 Currently ExploringPlaintext📊 B2B Sales & Enterprise Strategy → Scaling tech solutions for broader markets
-🌐 Advanced IoT Connectivity → Secure hardware-to-software data pipelines
-🧱 System Architecture → Designing highly scalable ERP ecosystems
-📫 Let's Discuss Business & Tech!
+```bash
+$ cat .profile
 
+ROLE     =  Business Development Manager & Enterprise Solutions Architect
+EXP      =  2+ years
+DOMAIN   =  B2B Sales  |  ERP & IoT Systems  |  Digital Marketing & SEO
+STACK    =  Flutter  |  Firebase  |  ReactJS  |  REST APIs  |  Azure
+OPEN_TO  =  B2B Tech Strategy / Enterprise Architecture roles
 
-  
+An R&D initiative merging IoT hardware capabilities with standard ERP software for automated business operations.AspectDetailStackEnterprise ERP · IoT Hardware · Cloud ArchitectureScaleLive deployments in the Education (School) and Healthcare (Pharmacy) sectorsImpactTransformed internal capabilities into marketable, connected B2B tech platformsRepoPrivate / Enterprise ProprietaryI spearheaded the end-to-end commercial rollout, acting as the critical bridge between business stakeholders and engineering teams to translate market demands into scalable technical architectures.Tailored digital transformation and marketing strategy packages designed for corporate client acquisition.AspectDetailStackDigital Marketing · SEO Strategies · B2B Sales FrameworksScaleEnterprise stakeholders and B2B clientsImpactCreated new revenue streams and enhanced digital market presence for clientsRepoService ArchitectureI architected and deployed customized B2B service packages, negotiating tech-driven solutions that align with the clients' long-term business objectives.A real-time collaborative habit-tracking application enabling users to follow and support each other's goals.AspectDetailStackFlutter · Dart · Firebase Real-time DBScaleCross-platform consumer applicationImpactGuaranteed flawless real-time data synchronization across user devicesRepoView RepositoriesI engineered the entire cross-platform frontend and implemented robust Firebase backend architectures to manage real-time social data flows.A specialized B2B mobile application built specifically for operational management in the construction industry.AspectDetailStackFlutter · REST APIs · Local DB StorageScaleConstruction industry professionalsImpactDemonstrated strong cross-platform technical leadership and niche product deliveryRepoView RepositoriesI directed the complete cross-team development cycle, taking full ownership of complex API integrations and overall mobile software architecture.> cat current-focus.yamlYAMLlearning:
+  - "Advanced IoT Connectivity: Secure hardware-to-software data pipelines"
+  - "B2B Sales Optimization: Scaling SEO and tech service packages for enterprise markets"
+
+building:
+  - Connected ERP Ecosystems  # Highly scalable integrations for education/healthcare sectors
+  - B2B Digital Marketing Frameworks  # Strategies to maximize enterprise client ROI
+
+open_to:
+  - B2B Tech Strategy consulting and growth leadership
+  - Enterprise tech partnerships bridging hardware (IoT) and software (ERP)
