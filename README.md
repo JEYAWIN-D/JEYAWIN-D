@@ -1,37 +1,34 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=JEYAWIN%20D&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Business%20Development%20Manager%20-%20B2B%20Growth%20-%20ERP%20and%20IoT&descAlignY=62&descSize=16" alt="Hero Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=JEYAWIN%20D&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Business%20Development%20Manager%20%7C%20Tech%20Architect%20%7C%20Creative%20Designer&descAlignY=62&descSize=16" alt="Hero Banner" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Business+Development+Manager;Driving+B2B+Tech+and+Digital+Growth;Enterprise+Solutions+and+ERP+Strategy;Structuring+SEO+and+Marketing+Packages;Bridging+Engineering+and+Business" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Business+Development+Manager;Enterprise+Solutions+and+ERP+Strategy;Graphic+%26+Animation+Design;UI%2FUX+%26+Motion+Graphics;Bridging+Engineering,+Business,+and+Design" alt="Typing Header" />
 </div>
 
-### 👨‍💻 Professional Profile
+### 👨‍💻 Professional & Creative Profile
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Animated Coding GIF" />
 
 ```javascript
 const professionalIdentity = {
-  // 📍 Location: Erode, Tamil Nadu, India
-  title: "Business Development Manager & Enterprise Solutions Architect",
+  title: "Business Development Manager, Tech Architect & Creative Designer",
   
   focusAreas: [
     "B2B Business Development & Sales Strategy",
     "Digital Marketing & SEO Service Structuring",
-    "Enterprise Resource Planning (ERP) Systems", 
-    "IoT Integrations & Tech Partnerships"
+    "Enterprise Resource Planning (ERP) & IoT", 
+    "Graphic Design, UI/UX, & Animation"
   ],
   
-  coreCompetency: "Scaling tech operations by translating business needs into high-value digital and ERP solutions.",
-  
-  recentMilestone: "Driving combined ERP and IoT R&D initiatives while architecting comprehensive digital growth packages for clients.",
+  coreCompetency: "Fusing robust software architecture with compelling visual design to drive high-value digital experiences.",
   
   contact: {
     email: "djeyawin@gmail.com",
     linkedIn: "[linkedin.com/in/jeyawin-d](https://linkedin.com/in/jeyawin-d)"
   }
 };
-🛠️ Domain Expertise & Technical Stack📊 GitHub Analytics & Data Visualization📉 3D-Animated Contribution Grid (Snake)📈 Activity Line Graph🏆 Professional Milestones & OperationsEmojiMilestoneStrategic Details📈Business Value CreationSuccessfully transitioned from pure engineering to driving tech-based business development and acquiring B2B opportunities.⚙️End-to-End OwnershipProven track record of owning projects from initial stakeholder requirement gathering through architectural design and final deployment.🤝Event & Stakeholder ManagementOrchestrated strategic planning and resource logistics for the Kongu Annual Convention (KAC) 2025, demonstrating core organizational and high-level stakeholder alignment capabilities.🚀 Flagship Initiatives & ProjectsInitiativeTech & DomainStrategic ImpactConnected ERP + IoT PlatformERP Systems, IoT HardwareScaled an R&D initiative merging IoT capabilities with standard ERP software for automated business operations. Successfully transitioned the platform to live client environments via direct school and pharmacy deployments.HabitShareFlutter, FirebaseEngineered a social habit-tracking ecosystem. Implemented robust Firebase architectures to guarantee flawless real-time data synchronization across user devices.B2B Construction PlatformMobile Architecture, APIsDirected the complete cross-team development of a niche construction industry application, demonstrating strong cross-platform technical leadership.🎓 Academic BackgroundDegreeInstitutionYearM.Sc. in Computer TechnologyKongu Engineering College2022🌱 Currently ExploringPlaintext📊 B2B Sales & Enterprise Strategy → Scaling tech solutions for broader markets
+🎨 Graphic Design, Animation & UI/UXCreative Stack & Tooling:Creative InitiativeFocus AreaDesign ImpactAesthetic Visual DirectionConcept Art, Cultural AestheticsDirected the creation of highly detailed visual assets focusing on specific cultural and aesthetic themes, including retro stylings and rich traditional event concepts.UI/UX & Motion GraphicsApp Interfaces, Micro-AnimationsDesigned seamless, cross-platform user interfaces for Flutter applications, enhanced with engaging micro-animations and motion design to elevate user retention and brand identity.Digital Marketing AssetsBrand Identity, B2B MediaCrafted compelling graphic layouts and animated promotional materials to support SEO and B2B digital marketing strategies.🛠️ Domain Expertise & Engineering Stack📊 GitHub Analytics & Data Visualization📉 3D-Animated Contribution Grid (Snake)📈 Activity Line Graph🚀 Flagship Enterprise InitiativesInitiativeTech & DomainStrategic ImpactConnected ERP + IoT PlatformERP Systems, IoT HardwareScaled an R&D initiative merging IoT capabilities with standard ERP software for automated business operations. Successfully transitioned the platform to live client environments.HabitShareFlutter, Firebase, UI AnimationEngineered a social habit-tracking ecosystem featuring smooth interactive animations and robust Firebase architectures for flawless real-time data sync.B2B Construction PlatformMobile Architecture, APIsDirected the complete cross-team development of a niche construction industry application, demonstrating strong cross-platform technical and design leadership.🌱 Currently ExploringPlaintext🎨 Advanced Motion Design → Integrating After Effects animations into Flutter apps via Lottie
+📊 B2B Sales & Enterprise Strategy → Scaling tech solutions with high-end digital marketing assets
 🌐 Advanced IoT Connectivity → Secure hardware-to-software data pipelines
-🧱 System Architecture → Designing highly scalable ERP ecosystems
-📫 Let's Discuss Business & Tech!
+📫 Let's Discuss Business, Tech, & Design!
