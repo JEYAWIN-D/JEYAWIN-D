@@ -31,83 +31,10 @@ const professionalIdentity = {
     linkedIn: "[linkedin.com/in/jeyawin-d](https://linkedin.com/in/jeyawin-d)"
   }
 };
-
-🛠️ Domain Expertise & Technical Stack
-Business Development, Marketing & Strategy
-
-Enterprise Architecture & IoT
-
-  
-PDF
-
-  
-PDF
-
-Application Engineering & Data
-
-  
-PDF
-
-  
-PDF
-
-  
-PDF
-
-  
-PDF
-
-💼 Executive & Business Development Experience
-🚀 Flagship Initiatives & Projects
-Initiative	Tech & Domain	Strategic Impact
-Connected ERP + IoT Platform
-
-  
-PDF
-
-ERP Systems, IoT Hardware  
-PDF
-
-Scaled an R&D initiative merging IoT capabilities with standard ERP software for automated business operations. Successfully transitioned the platform to live client environments via direct school and pharmacy deployments, driving immediate B2B value.  
-PDF
-+ 1
-
-Digital Growth & SEO Operations	Digital Marketing, B2B Services	Structured competitive digital marketing and SEO service packages tailored for enterprise clients, creating new revenue streams and enhancing digital market presence.
-B2B Construction Platform
-
-  
-PDF
-
-Mobile Architecture, APIs  
-PDF
-
-Directed the complete cross-team development of a niche construction industry application, demonstrating strong technical leadership and business-to-business product delivery.  
-PDF
-
-HabitShare
-
-[cite: 7]
-
-Flutter, Firebase[cite: 7]
-
-Engineered a social habit-tracking ecosystem[cite: 7]. Implemented robust Firebase architectures to guarantee flawless real-time data synchronization across user devices[cite: 7].
-
-🏆 Professional Milestones
-Emoji	Milestone	Details
-📈	Business Value Creation	Successfully transitioned from pure engineering to a Business Development Manager role, driving tech-based client acquisition, structuring digital service packages, and scaling B2B operations.
-⚙️	End-to-End Ownership	Proven track record of owning entire project lifecycles—from initial stakeholder requirement gathering and sales pitching to architectural design and final deployment.
-📊 GitHub Analytics
-🎓 Academic Background
-Degree	Institution	Year
-M.Sc. in Computer Technology[cite: 7]
-
-Kongu Engineering College[cite: 7]
-
-2022[cite: 7]
-
-🌱 Currently Exploring
-Plaintext
-📊 B2B Sales & Enterprise Strategy → Scaling tech solutions and SEO packages for broader markets
-🌐 Advanced IoT Connectivity → Secure hardware-to-software data pipelines for ERPs
-🧱 System Architecture → Designing highly scalable ERP ecosystems for schools and pharmacies
+🛠️ Domain Expertise & Technical StackEnterprise Architecture & StrategyApplication EngineeringInfrastructure, Data & Cloud📊 GitHub Analytics💼 Executive & Engineering Experience🚀 Flagship Initiatives & ProjectsInitiativeTech & DomainStrategic ImpactConnected ERP + IoT PlatformERP Systems, IoT HardwareScaled an R&D initiative merging IoT capabilities with standard ERP software for automated business operations. Successfully transitioned the platform to live client environments via direct school and pharmacy deployments.HabitShareFlutter, FirebaseEngineered a social habit-tracking ecosystem. Implemented robust Firebase architectures to guarantee flawless real-time data synchronization across user devices.B2B Construction PlatformMobile Architecture, APIsDirected the complete cross-team development of a niche construction industry application, demonstrating strong cross-platform technical leadership.🏆 Professional MilestonesEmojiMilestoneDetails📈Business Value CreationSuccessfully transitioned from pure engineering to driving tech-based business development and acquiring B2B opportunities.⚙️End-to-End OwnershipProven track record of owning projects from initial stakeholder requirement gathering through architectural design and final deployment.🎓 Academic BackgroundDegreeInstitutionYearM.Sc. in Computer TechnologyKongu Engineering College2022🌱 Currently ExploringPlaintext📊 B2B Sales & Enterprise Strategy → Scaling tech solutions for broader markets
+🌐 Advanced IoT Connectivity → Secure hardware-to-software data pipelines
+🧱 System Architecture → Designing highly scalable ERP ecosystems
 📫 Let's Discuss Business & Tech!
+
+
+  
