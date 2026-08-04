@@ -1,36 +1,66 @@
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=cylinder&color=00FFD1&height=180&section=header&text=JEYAWIN%20D.&fontSize=50&fontColor=0D1117&animation=twinkling&desc=Business%20Development%20Manager%20%7C%20IoT%20%26%20ERP%20Architect&descAlignY=70&descSize=16](https://capsule-render.vercel.app/api?type=cylinder&color=00FFD1&height=180&section=header&text=JEYAWIN%20D.&fontSize=50&fontColor=0D1117&animation=twinkling&desc=Business%20Development%20Manager%20%7C%20IoT%20%26%20ERP%20Architect&descAlignY=70&descSize=16)" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&fontColor=00FF41&text=JEYAWIN_D&fontSize=50&desc=Business_Development_Manager_|_Tech_Architect&descSize=18" width="100%" alt="Header" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Initializing+system...;>+Business+Development+%26+Digital+Expansion;>+Architecting+ERP+%26+IoT+Solutions;>+Structuring+SEO+%26+Marketing+Packages;>+Bridging+Engineering+%26+Business" alt="Typing Terminal" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=Initializing+Executive+Profile](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=Initializing+Executive+Profile)...;>_Business+Growth+%26+Digital+Expansion;>_Architecting+ERP+%26+IoT+Ecosystems;>_Structuring+SEO+%26+Marketing+Operations;>_Bridging+Engineering+with+Enterprise+Strategy" alt="Typing Terminal" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="600" alt="Coding GIF" style="border-radius: 10px;" />
 </div>
 
----
+<br>
 
-### 💻 `~/system/executive_profile.json`
+### 💻 `Terminal: ~/jeyawin/profile.sh`
 
-<a href="[https://github.com/JEYAWIN-D](https://github.com/JEYAWIN-D)">
-  <img align="right" src="[https://i.pinimg.com/originals/a4/89/3e/a4893e3bdf8a1f6a1e360f08cb721df2.gif](https://i.pinimg.com/originals/a4/89/3e/a4893e3bdf8a1f6a1e360f08cb721df2.gif)" width="320" alt="Data Analytics Hologram" style="border-radius: 10px; margin-left: 15px;" />
-</a>
+```bash
+#!/bin/bash
+echo "Loading Executive Profile..."
 
-```json
-{
-  "user": "Jeyawin D",
-  "location": "Erode, Tamil Nadu, India",
-  "designation": "Business Development Manager & Tech Architect",
-  "core_competencies": {
-    "enterprise": ["ERP Deployments", "B2B Sales", "Client Acquisition"],
-    "technology": ["IoT Integrations", "Flutter", "System Architecture"],
-    "marketing": ["SEO Structuring", "Digital Marketing Packages"]
-  },
-  "recent_execution": [
-    "Architecting connected ERP + IoT R&D for B2B operations",
-    "Orchestrating technical logistics for KAC 2025 convention",
-    "Structuring high-conversion SEO service pipelines"
-  ],
-  "status": "200 OK - Ready for high-level enterprise collaborations."
+NAME="Jeyawin D"
+ROLE="Business Development Manager & Tech Architect"
+LOCATION="Erode, Tamil Nadu, India"
+
+# Core Competencies
+EXPERTISE=(
+  "B2B Sales & Tech Partnerships"
+  "Enterprise Resource Planning (ERP)"
+  "IoT Hardware Integrations"
+  "Digital Marketing & SEO Strategy"
+  "Flutter & Mobile Architecture"
+)
+
+function execute_mission() {
+  echo "Fusing robust software engineering with B2B strategy to scale enterprise operations and craft high-conversion digital packages."
 }
-📊 ~/dashboards/analytics_and_metrics⚙️ ~/operations/tech_stack.sh🚀 ~/initiatives/deployment_logsTarget EnvironmentExecuted OperationStrategic ImpactEnterprise (B2B)Deploy ERP + IoT EcosystemMerged hardware capabilities with School/Pharmacy ERP software for automated, real-time business operations.Digital MarketingInitialize SEO PackagesStructured competitive digital marketing architectures to drive B2B revenue and market presence.Consumer AppLaunch HabitShare AppEngineered cross-platform habit tracker with flawless Firebase real-time data sync across devices.Logistics/EventsExecute KAC 2025 PlanningOrchestrated digital assets, brochures, and infrastructure planning for massive-scale corporate convention.🐍 ~/algorithms/contribution_matrix🔗 ~/network/establish_connection
+
+execute_mission
+
+⚙️ Database: ~/operations/recent_deployments.json
+
+{
+  "flagship_initiatives": [
+    {
+      "project": "Connected ERP + IoT Platform",
+      "impact": "Merged hardware capabilities with School and Pharmacy ERP software for automated, real-time B2B operations."
+    },
+    {
+      "project": "Digital Growth & SEO Operations",
+      "impact": "Structured competitive digital marketing architectures to drive B2B revenue and market presence."
+    },
+    {
+      "project": "Kongu Annual Convention (KAC) 2025",
+      "impact": "Orchestrated digital assets, brochures, and infrastructure logistics for massive-scale corporate convention."
+    },
+    {
+      "project": "HabitShare Application",
+      "impact": "Engineered cross-platform habit tracker with flawless Firebase real-time data sync across devices."
+    }
+  ]
+}
+🛠️ System: ~/dependencies/tech_stack
+📊 Analytics: ~/dashboards/live_metrics
+🔗 Network: ~/establish_connection
