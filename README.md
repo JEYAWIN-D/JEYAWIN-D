@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Jeyawin%20D&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20%26%20Cross-Platform%20Engineer&descAlignY=55&descAlign=50" alt="Jeyawin D Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Jeyawin%20D&fontSize=50&fontAlignY=38&desc=Mobile%20App%20Developer&descAlignY=55&descAlign=50" alt="Jeyawin D Header Banner" width="100%" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9400D3&center=true&vCenter=true&width=600&lines=Flutter+%2B+Cross-Platform+Engineer;Building+ERP+%26+IoT+Solutions;ReactJS+Frontend+Developer;End-to-End+Product+Ownership" alt="Typing SVG" />
 
@@ -150,57 +150,15 @@ I am a specialized Mobile App Developer with hands-on experience building and sh
 
 ---
 
-## 8. Certifications Section
+## 8. GitHub Analytics Section
 
 <div align="center">
-
-### AWS
-<img src="https://img.shields.io/badge/AWS-Certified_Solutions_Architect-8A2BE2?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-
-### Oracle
-<img src="https://img.shields.io/badge/Oracle-Certified_Professional-4B0082?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-
-### NPTEL
-<img src="https://img.shields.io/badge/NPTEL-Elite_Certification-9400D3?style=for-the-badge&logo=nptel&logoColor=white" alt="NPTEL" />
-
-### Cisco
-<img src="https://img.shields.io/badge/Cisco-CCNA_Certified-483D8B?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-
-</div>
-
----
-
-## 9. Coding Profiles Section
-
-<div align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Premium_Solver-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Active_Coder-4B0082?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  <img src="https://img.shields.io/badge/HackerRank-5_Star-9400D3?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  <img src="https://img.shields.io/badge/CodeChef-Advanced-483D8B?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-</div>
-
----
-
-## 10. GitHub Analytics Section
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JEYAWIN-D&show_icons=true&theme=transparent&hide_border=true&title_color=8A2BE2&text_color=A9A9B3&icon_color=9400D3&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JEYAWIN-D&theme=transparent&hide_border=true&title_color=8A2BE2&text_color=A9A9B3&icon_color=9400D3&background=0D1117" alt="GitHub Streak" width="48%" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEYAWIN-D&layout=compact&theme=transparent&hide_border=true&title_color=8A2BE2&text_color=A9A9B3&bg_color=0D1117" alt="Top Languages" width="60%" />
 </div>
 
 ---
 
-## 11. GitHub Trophies Section
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JEYAWIN-D&theme=radical&no-frame=true&no-bg=true&margin-w=15&title-text-color=8A2BE2" alt="GitHub Trophies" />
-</div>
-
----
-
-## 12. Contribution Activity Section
+## 9. Contribution Activity Section
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JEYAWIN-D&bg_color=0D1117&color=8A2BE2&line=9400D3&point=4B0082&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
@@ -208,15 +166,15 @@ I am a specialized Mobile App Developer with hands-on experience building and sh
 
 ---
 
-## 13. Contribution Snake Section
+## 10. Contribution Snake Section
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JEYAWIN-D/JEYAWIN-D/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+  <img src="https://github.com/JEYAWIN-D/JEYAWIN-D/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </div>
 
 ---
 
-## 14. Current Focus Section
+## 11. Current Focus Section
 
 ```yaml
 Current_Status:
